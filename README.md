@@ -1,4 +1,6 @@
 # Telehealth
+![Screenshot_1](https://github.com/Wafiullah786/Telehealth/assets/130735471/63594ba7-81c4-4384-b159-39de33db061a)
+
 
 
 INTRODUCTION
@@ -20,3 +22,7 @@ KEY FEATURES:
 10. Prescription
 
 TECHNOLOGIES & TOOLS USED
+
+SCREENSHOTS
+
+<img src = "1.png" width ="250" /> <img src = "2.png" width ="250" /> <img src = "3.png" width ="250" /> <img src = "4.png" width ="250" /> <img src = "5.png" width ="250" /> <img src = "6.png" width ="250" /> <img src = "7.png" width ="250" /> <img src = "8.png" width ="250" /> <img src = "9.png" width ="250" /> <img src = "10.png" width ="250" /> <img src = "11.png" width ="250" /> <img src = "12.png" width ="250" />
